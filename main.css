@@ -1,0 +1,63 @@
+body {
+    background-color:maroon;
+    font-size:medium;
+    color:beige
+
+}
+h1 {
+    color:azure;
+}
+#intro {
+    font-size:larger;
+    color:beige
+}
+.colorful {
+    color:darkgrey;
+}
+P {
+    text-align:center;
+    color:burlywood
+}
+header {
+    text-align: center;
+
+}
+
+nav {height: 6000px;
+    width: 200px;
+    float: left;
+    Padding: 5px;
+    line-height: 30px;
+    }
+               
+      ul {height: 6000px;
+        width: 200px;
+        float: left;
+        padding: 5x;
+        line: 30px;
+        }
+    
+        li a {
+            display:block;
+            text-decoration: wavy;
+        }
+
+
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .p2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+
+    
+footer { 
+    text-align:center;
+    margin-right: 200px;
+}
